@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\28941ec88d0bfbb25e20c213ef5a06fa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\ac299cbdab6540f9df094d6615d99dfd\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\bbb668706ff3d088103734c67e574e89\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\abff8a8774ac6d03155f359e3c7f9119\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\d9fdbd182a488ffbae054d6ca2db748a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\e853bb485918c591cce2e29487c9fd13\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\c2a1b9d8565ac0e9d028c4d5fdf1f6dd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\9756e1ad22bddc9969b5889002a8eb26\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\78d6cd17a4de41948590806e13ba2e28\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\fb67ab514808f10293d72d7b43656e3e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\b3ea586331d952728991633fdef7b14f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\6c50b410517d50b7ad3e333194d0ab22\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\6862b95fa3d42b3cc5f9e5ab76336ae6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\2d931f1657d32355a50ad2ab5a20616e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\f710c039de5c20c9f079ad1d1e66e62b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\86041093ce255f4c1cbabdd8a2769034\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\e4109ed0f7a0cfae5635ed357b478d7e\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\7705db3588c894be2b536bbb536ae636\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\b6d091712ea64c986e7a9d7c20aaecff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\0b41742096daac4fd89bffd0442b98cb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\7308b32368d71c7f9300f88331afde88\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\5729c7fd46bf0d7522b49eb305bee765\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\7d8c7cebcf7f5c8af9f033bc81f601d9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\cf36edb3e50bd9ddfebeb023cbe0d759\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\4a8b08b67146af43467d3e7a8f506f8a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\210c9044d4f8507515cfd498ad1b1961\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\eaca0aaf868626cda394b6a863a45576\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:3:11-62
+		INJECTED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\ac299cbdab6540f9df094d6615d99dfd\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\ac299cbdab6540f9df094d6615d99dfd\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\86041093ce255f4c1cbabdd8a2769034\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\86041093ce255f4c1cbabdd8a2769034\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\e4109ed0f7a0cfae5635ed357b478d7e\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\e4109ed0f7a0cfae5635ed357b478d7e\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\86041093ce255f4c1cbabdd8a2769034\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.activity_lifecycle_experiment.MainActivity
+ADDED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.activity_lifecycle_experiment.SecondActivity
+ADDED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:19:19-49
+activity#com.example.activity_lifecycle_experiment.ThirdActivity
+ADDED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:20:9-50
+	android:name
+		ADDED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml:20:19-48
+uses-sdk
+INJECTED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\28941ec88d0bfbb25e20c213ef5a06fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\28941ec88d0bfbb25e20c213ef5a06fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\ac299cbdab6540f9df094d6615d99dfd\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\ac299cbdab6540f9df094d6615d99dfd\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\bbb668706ff3d088103734c67e574e89\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\bbb668706ff3d088103734c67e574e89\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\abff8a8774ac6d03155f359e3c7f9119\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\abff8a8774ac6d03155f359e3c7f9119\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\d9fdbd182a488ffbae054d6ca2db748a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\d9fdbd182a488ffbae054d6ca2db748a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\e853bb485918c591cce2e29487c9fd13\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\e853bb485918c591cce2e29487c9fd13\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\c2a1b9d8565ac0e9d028c4d5fdf1f6dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\c2a1b9d8565ac0e9d028c4d5fdf1f6dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\9756e1ad22bddc9969b5889002a8eb26\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\9756e1ad22bddc9969b5889002a8eb26\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\78d6cd17a4de41948590806e13ba2e28\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\78d6cd17a4de41948590806e13ba2e28\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\fb67ab514808f10293d72d7b43656e3e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\fb67ab514808f10293d72d7b43656e3e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\b3ea586331d952728991633fdef7b14f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\b3ea586331d952728991633fdef7b14f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\6c50b410517d50b7ad3e333194d0ab22\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\6c50b410517d50b7ad3e333194d0ab22\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\6862b95fa3d42b3cc5f9e5ab76336ae6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\6862b95fa3d42b3cc5f9e5ab76336ae6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\2d931f1657d32355a50ad2ab5a20616e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\2d931f1657d32355a50ad2ab5a20616e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\f710c039de5c20c9f079ad1d1e66e62b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\f710c039de5c20c9f079ad1d1e66e62b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\86041093ce255f4c1cbabdd8a2769034\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\86041093ce255f4c1cbabdd8a2769034\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\e4109ed0f7a0cfae5635ed357b478d7e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\e4109ed0f7a0cfae5635ed357b478d7e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\7705db3588c894be2b536bbb536ae636\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\7705db3588c894be2b536bbb536ae636\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\b6d091712ea64c986e7a9d7c20aaecff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\b6d091712ea64c986e7a9d7c20aaecff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\0b41742096daac4fd89bffd0442b98cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\0b41742096daac4fd89bffd0442b98cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\7308b32368d71c7f9300f88331afde88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\7308b32368d71c7f9300f88331afde88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\5729c7fd46bf0d7522b49eb305bee765\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\5729c7fd46bf0d7522b49eb305bee765\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\7d8c7cebcf7f5c8af9f033bc81f601d9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\7d8c7cebcf7f5c8af9f033bc81f601d9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\cf36edb3e50bd9ddfebeb023cbe0d759\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\cf36edb3e50bd9ddfebeb023cbe0d759\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\4a8b08b67146af43467d3e7a8f506f8a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\4a8b08b67146af43467d3e7a8f506f8a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\210c9044d4f8507515cfd498ad1b1961\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\210c9044d4f8507515cfd498ad1b1961\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\eaca0aaf868626cda394b6a863a45576\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\KRITTIKA\.gradle\caches\transforms-2\files-2.1\eaca0aaf868626cda394b6a863a45576\AndroidManifest.xml:20:5-44
+INJECTED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Studio\activity-lifecycle-experiment-master\app\src\main\AndroidManifest.xml
